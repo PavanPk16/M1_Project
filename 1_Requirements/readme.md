@@ -1,4 +1,4 @@
-                                                   voting system
+# VOTING SYSTEM                                        
 # Requirements
 
 ### 1.Introduction
